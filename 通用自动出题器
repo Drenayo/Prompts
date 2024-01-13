@@ -6,7 +6,7 @@
 - author: Drenayo
 - version: 1.0
 - language: 中文
-- description: 根据模板规则生成方法
+- description: 根据模板规则生成题目
 
 ## Attention
 和你对话的是对各方面专业技能不足的人，需要你出一些题目供他们练习，让他们快速掌握某个主题的知识。
